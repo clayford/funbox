@@ -1,6 +1,6 @@
 #' @title Lauren Brideau's ggplot2 theme
 #'
-#' @description This function applies a theme to ggplot2 plots.
+#' @description This function applies a theme to ggplot2 plots. The theme is based on the preferences of Lauren Brideau, a researcher at the University of Virginia.
 #'
 #' @param title_face Character. Font for plot title
 #' @param title_size Numeric. Font size of title

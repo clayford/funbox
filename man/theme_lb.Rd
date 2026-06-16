@@ -50,7 +50,7 @@ or less. Default is FALSE. The lb_palette consists of the following colors:
 A ggplot2 theme that can be added to a ggplot2 object
 }
 \description{
-This function applies a theme to ggplot2 plots.
+This function applies a theme to ggplot2 plots. The theme is based on the preferences of Lauren Brideau, a researcher at the University of Virginia.
 }
 \examples{
 library(ggplot2)

@@ -1,6 +1,6 @@
 Package: funbox
 Title: Miscellaneous Functions for Simulation and Visualization  
-Version: 0.0.0.9000
+Version: 0.0.1
 Authors@R: 
     person("Clay", "Ford", , "joe.clayton.ford@gmail.com", role = c("aut", "cre"))
 Description: Convenience functions for visualizing and simulating data.
