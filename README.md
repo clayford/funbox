@@ -21,7 +21,7 @@ pak::pak("clayford/funbox")
 
 ## Example
 
-At the moment, the package has one function: `dot_chart()`
+One such function is `dot_chart()`.
 
 ``` r
 library(funbox)
