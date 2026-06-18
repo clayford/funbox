@@ -2,7 +2,8 @@ Package: funbox
 Title: Miscellaneous Functions for Simulation and Visualization  
 Version: 0.0.1
 Authors@R: 
-    person("Clay", "Ford", , "joe.clayton.ford@gmail.com", role = c("aut", "cre"))
+    c(person("Clay", "Ford", , "joe.clayton.ford@gmail.com", role = c("aut", "cre"), comment = c(ORCID = "0000-0003-1470-3842")),
+    person("Lauren", "Brideau", email = "ysd4wx@virginia.edu", role = "aut"))
 Description: Convenience functions for visualizing and simulating data.
 License: MIT + file LICENSE
 Encoding: UTF-8
@@ -11,6 +12,8 @@ RoxygenNote: 8.0.0
 Depends: R (>= 4.1.0)
 Imports: 
     ggplot2,
-    rlang
+    rlang,
+    car
 URL: https://github.com/clayford/funbox
 BugReports: https://github.com/clayford/funbox/issues
+LazyData: true
